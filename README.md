@@ -40,6 +40,7 @@ Una página web motivacional creada con **HTML** y **CSS puro**, diseñada para 
 ## 📁 Estructura del Proyecto
 
 Inspiracion-y-Crecimiento/
+
     └── Inspiracion.html
 
 ---
