@@ -41,12 +41,9 @@ Una página web motivacional creada con **HTML** y **CSS puro**, diseñada para 
 ```
 
 Inspiracion-y-Crecimiento/
-
     └── Inspiracion.html
 
 ```
-
-[🔗 Ver Inspiracion.html](./Inspiracion/Inspiracion.html)
 
 
 ## 👩‍💻 Autora
