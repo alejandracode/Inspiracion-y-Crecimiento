@@ -35,15 +35,19 @@ Una página web motivacional creada con **HTML** y **CSS puro**, diseñada para 
 
 `2`. Abre el archivo Inspiracion.html en tu navegador web o editor (como VS Code).
 
----
 
 ## 📁 Estructura del Proyecto
+
+```
 
 Inspiracion-y-Crecimiento/
 
     └── Inspiracion.html
 
----
+```
+
+[🔗 Ver Inspiracion.html](./Inspiracion/Inspiracion.html)
+
 
 ## 👩‍💻 Autora
 
